@@ -2,6 +2,7 @@
 
 ## TechDraw
 * Ref : https://www.freecadweb.org/wiki/Drawing_Template_HowTo
+* SVG file Optimizing : https://jakearchibald.github.io/svgomg/
 
 ![2018-11-10-162051_1366x733_scrot](https://user-images.githubusercontent.com/12775748/48298869-eee02980-e507-11e8-99dc-1253943d2d5e.png)
 
