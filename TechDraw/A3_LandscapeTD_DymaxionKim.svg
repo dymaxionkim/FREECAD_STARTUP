@@ -1,559 +1,39 @@
 <svg xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" version="1.2">
-  <g stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round" font-size="31.75" font-weight="400" font-family="Sans Serif" fill="none" fill-rule="evenodd">
-    <path d="M351.661 249.359h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 249.359h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 255.345h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 255.345h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 261.33h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 261.33h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 267.316h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 267.316h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 273.302h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 273.302h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 279.287h50.614" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M351.661 279.287h50.614" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M376.619 249.359v29.928" transform="matrix(1 0 0 .99742 -6.88 .766)"/>
-    <path d="M402.275 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M402.275 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
+  <g font-weight="400" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M351.661 249.482h50.614M351.661 249.482v29.85M351.661 255.452h50.614M351.661 261.422h50.614M351.661 267.392h50.614M351.661 273.363h50.614M351.661 279.332h50.614M369.739 249.482v29.85M402.275 249.482v29.85"/>
   </g>
-  <g stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round" font-size="31.75" font-weight="400" font-family="Sans Serif" fill="none" fill-rule="evenodd">
-    <path d="M205.408 249.359h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 249.359h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 259.335h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 259.335h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 264.323h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 264.323h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 269.311h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 269.311h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 274.299h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 274.299h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 279.287h144.755" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M205.408 279.287h144.755" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M230.366 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M230.366 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M275.29 274.299v4.988" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M275.29 274.299v4.988" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M300.248 274.299v4.988" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M300.248 274.299v4.988" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M350.163 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M350.163 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
+  <g font-weight="400" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M205.408 249.482h144.755M205.408 249.482v29.85M205.408 259.432h144.755M205.408 264.407h144.755M205.408 269.382h144.755M205.408 274.357h144.755M205.408 279.332h144.755M230.366 249.482v29.85M275.29 274.357v4.975M300.248 274.357v4.975M350.163 249.482v29.85"/>
   </g>
-  <g stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round" font-size="31.75" font-weight="400" font-family="Sans Serif" fill="none" fill-rule="evenodd">
-    <path d="M153.995 249.359h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 249.359h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 254.347h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 254.347h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 259.335h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 259.335h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 264.323h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 264.323h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 269.311h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 269.311h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 279.287h49.915" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M153.995 279.287h49.915" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M178.953 249.359v19.952" transform="matrix(1 0 0 .99742 -3.964 .766)"/>
-    <path d="M203.91 249.359v29.928" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M203.91 249.359v29.928" transform="matrix(1 0 0 .99742 0 .766)"/>
+  <g font-weight="400" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M153.995 249.482h49.915M153.995 249.482v29.85M153.995 254.457h49.915M153.995 259.432h49.915M153.995 264.407h49.915M153.995 269.382h49.915M153.995 279.332h49.915M174.989 249.482v19.9M203.91 249.482v29.85"/>
   </g>
-  <g stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round" font-size="31.75" font-weight="400" font-family="Sans Serif" fill="none" fill-rule="evenodd">
-    <path d="M32.7 254.347h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 254.347h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 259.335h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 259.335h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 264.323h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 264.323h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 269.311h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 269.311h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 274.299h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 274.299h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 279.287h59.898" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 279.287h59.898" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M47.674 259.335v19.952" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M47.674 259.335v19.952" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M62.65 259.335v19.952" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M62.65 259.335v19.952" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M77.624 259.335v19.952" transform="matrix(1 0 0 .99742 .53 .766)"/>
-    <path d="M92.599 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 259.335h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 259.335h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 264.323h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 264.323h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 269.311h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 269.311h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 274.299h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 274.299h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 279.287h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M92.599 279.287h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M107.573 259.335v14.964" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M107.573 259.335v14.964" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 259.335h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 259.335h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 263.326h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 263.326h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 267.316h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 267.316h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 271.306h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 271.306h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 275.297h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 275.297h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 279.287h29.949" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M122.548 279.287h29.949" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M137.523 259.335v19.952" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M137.523 259.335v19.952" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M152.497 254.347v24.94" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M152.497 254.347v24.94" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 249.359h119.797" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 249.359h119.797" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 249.359v4.988" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 249.359v4.988" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 254.347h119.797" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M32.7 254.347h119.797" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M152.497 249.359v4.988" vector-effect="non-scaling-stroke" transform="matrix(1 0 0 .99742 0 .766)"/>
-    <path d="M152.497 249.359v4.988" transform="matrix(1 0 0 .99742 0 .766)"/>
+  <g font-weight="400" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32.7 254.457v24.875M32.7 259.432h59.898M32.7 264.407h59.898M32.7 269.382h59.898M32.7 274.357h59.898M32.7 279.332h59.898M47.674 259.432v19.9M62.65 259.432v19.9M78.154 259.432v19.9M92.599 254.457v24.875M92.599 259.432h29.949M92.599 264.407h29.949M92.599 269.382h29.949M92.599 274.357h29.949M92.599 279.332h29.949M107.573 259.432v14.925"/>
+    <path d="M122.548 254.457v24.875" vector-effect="non-scaling-stroke"/>
+    <path d="M122.548 254.457v24.875"/>
+    <path d="M122.548 254.457v24.875" vector-effect="non-scaling-stroke"/>
+    <path d="M122.548 254.457v24.875M122.548 259.432h29.949M122.548 263.413h29.949M122.548 267.392h29.949M122.548 271.372h29.949M122.548 275.353h29.949M122.548 279.332h29.949M137.523 259.432v19.9M152.497 254.457v24.875M32.7 249.482h119.797M32.7 249.482v4.975M32.7 254.457h119.797M152.497 249.482v4.975"/>
   </g>
-  <path d="M.354 1.12v295.527" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M.354.354v296.292" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M.354 1.12v19.9" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M.354.354v19.953" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M.354 276.746v19.9" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M.354 276.694v19.952" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M10.338 286.696V11.07" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M10.338 286.67V10.33" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M25.312 150.077v-2.388" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M25.312 149.697v-2.394" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M27.808 151.37v-1.293" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M27.808 150.994v-1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M27.808 147.69v-1.294" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M27.808 147.303v-1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M30.304 281.721V16.046" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.304 281.682V15.319" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M30.603 281.422V16.344M30.903 281.124V16.643" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.903 281.083V15.917" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.202 280.826V16.94M31.502 280.526V17.24" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M31.502 280.484V16.516" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.801 280.228V17.538M32.1 279.93V17.837" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.1 279.886V17.114" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M32.4 279.632V18.135M32.7 279.332V18.434" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.7 279.287V17.713" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M419.646 296.647H399.68" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M419.646 296.646H399.68" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M.354 296.647h419.292" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M.354 296.646h419.292" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M.354 296.647h19.967" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M.354 296.646h19.967" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M10.338 286.696h399.325" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M10.338 286.67h399.325" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M214.992 284.209h1.297" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M214.992 284.176h1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M218.685 284.209h1.298" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M218.685 284.176h1.298" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M30.304 281.721H404.67" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.304 281.682H404.67" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M30.603 281.422h373.77M30.903 281.124h373.17" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.903 281.083h373.169" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.202 280.826h372.571M31.502 280.526h371.971" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M31.502 280.484h371.971" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.801 280.228h371.373M32.1 279.93h370.774" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.1 279.886h370.774" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M32.4 279.632h370.175M32.7 279.332h369.575" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.7 279.287h369.575" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M27.808 151.37l2.496-2.487" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M27.808 150.994l2.496-2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M27.808 146.396l2.496 2.487" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M27.808 146.006l2.496 2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M117.656 286.696v-4.975" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M117.656 286.67v-4.988" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M117.656 16.046V11.07" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M117.656 15.319V10.33" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M217.487 16.046l2.496-2.488" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M217.487 15.319l2.496-2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M25.312 248.388h4.992" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M25.312 248.262h4.992" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M404.671 248.388h4.992" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.671 248.262h4.992" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M217.487 281.721l2.496 2.488" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M217.487 281.682l2.496 2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M25.312 150.077h3.794" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M25.312 149.697h3.794" transform="matrix(.6579 0 0 .99742 8.66 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M405.87 150.077h3.793" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M405.869 149.697h3.794" transform="matrix(.65788 0 0 .99742 140.154 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M25.312 147.69h3.794" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M25.312 147.303h3.794" transform="matrix(.6579 0 0 .99742 8.66 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M405.87 147.69h3.793" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M405.869 147.303h3.794" transform="matrix(.65788 0 0 .99742 140.154 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M216.29 286.696v-3.78" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M216.289 286.67v-3.791" transform="matrix(1 0 0 .65618 0 98.59)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M216.29 14.852V11.07" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M216.289 14.121v-3.79" transform="matrix(1 0 0 .6562 0 4.291)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M218.685 286.696v-3.78" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M218.685 286.67v-3.791" transform="matrix(1 0 0 .65618 0 98.59)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M218.685 14.852V11.07" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M218.685 14.121v-3.79" transform="matrix(1 0 0 .6562 0 4.291)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M214.992 284.209l2.495-2.488" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M214.992 284.176l2.495-2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M25.312 49.38h4.992" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M25.312 48.739h4.992" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M404.671 49.38h4.992" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.671 48.739h4.992" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M214.992 13.558l2.495 2.488" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M214.992 12.825l2.495 2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M317.32 286.696v-4.975" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M317.319 286.67v-4.988" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M317.32 16.046V11.07" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M317.319 15.319V10.33" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M32.7 18.434h369.575" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.7 17.713h369.575" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M32.4 18.135h370.175M32.1 17.837h370.774" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M32.1 17.114h370.774" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.801 17.538h371.373M31.502 17.24h371.971" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M31.502 16.516h371.971" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M31.202 16.941h372.571M30.903 16.643h373.17" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.903 15.917h373.169" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M30.603 16.344h373.77M30.304 16.046H404.67" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M30.304 15.319H404.67" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M404.671 148.883l2.496-2.487" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.671 148.5l2.496-2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M214.992 13.558h1.297" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M214.992 12.825h1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M218.685 13.558h1.298" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M218.685 12.825h1.298" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M10.338 11.07h399.325" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M10.338 10.33h399.325" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M419.646 1.12H.354" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M419.646.354H.354" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M20.32 1.12H.355" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M20.32.354H.355" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M399.68 1.12h19.966" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M399.68.354h19.966" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M404.671 148.883l2.496 2.488" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.671 148.5l2.496 2.494" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M402.275 279.332V18.434" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M402.275 279.287V17.713" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M402.575 279.632V18.135M402.874 279.93V17.837" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M402.874 279.886V17.114" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M403.174 280.228V17.538M403.473 280.526V17.24" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M403.473 280.484V16.516" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M403.773 280.826V16.94M404.072 281.124V16.643" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.072 281.083V15.917" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M404.372 281.422V16.344M404.671 281.721V16.046" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M404.671 281.682V15.319" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M407.167 151.37v-1.293" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M407.167 150.994v-1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M407.167 147.69v-1.294" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-width=".2" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M407.167 147.303v-1.297" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M409.663 11.07v275.626" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M409.663 10.33v276.34" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M419.646 1.12v19.9" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M419.646.354v19.953" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M419.646 276.746v19.9" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M419.646 276.694v19.952" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".699" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M419.646 296.647V1.12" vector-effect="non-scaling-stroke" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <path d="M419.646 296.646V.354" transform="matrix(1 0 0 .99742 0 .766)" font-weight="400" font-size="31.75" font-family="Sans Serif" fill="none" fill-rule="evenodd" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="55.518" y="253.392" transform="scale(1.0013 .9987)" font-weight="700" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="55.518" y="253.392" style="-inkscape-font-specification:'Noto Sans CJK KR';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400">KS B ISO 2768-1 (General Tolerances), Midium</tspan>
-  </text>
-  <text style="line-height:1.25" x="51.398" y="258.132" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="51.398" y="258.132" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Linear tol. [mm]</tspan>
-  </text>
-  <text style="line-height:1.25" x="94.732" y="258.237" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="94.732" y="258.237" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Chamfer tol. [mm]</tspan>
-  </text>
-  <text style="line-height:1.25" x="125.3" y="258.099" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="125.3" y="258.099" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Angular tol. [mm]</tspan>
-  </text>
-  <text style="line-height:1.25" x="35.526" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="35.526" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">0.5~3.0</tspan>
-  </text>
-  <text style="line-height:1.25" x="35.586" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="35.586" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3.0~6.0</tspan>
-  </text>
-  <text style="line-height:1.25" x="35.505" y="273.299" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="35.505" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">6.0~30</tspan>
-  </text>
-  <text style="line-height:1.25" x="35.586" y="278.187" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="35.586" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">30~120</tspan>
-  </text>
-  <text style="line-height:1.25" x="51.117" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="51.117" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.1</tspan>
-  </text>
-  <text style="line-height:1.25" x="51.117" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="51.117" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.1</tspan>
-  </text>
-  <text style="line-height:1.25" x="51.117" y="273.299" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="51.117" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.2</tspan>
-  </text>
-  <text style="line-height:1.25" x="51.117" y="278.187" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="51.117" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.3</tspan>
-  </text>
-  <text style="line-height:1.25" x="81.24" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="81.24" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.5</tspan>
-  </text>
-  <text style="line-height:1.25" x="81.24" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="81.24" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.8</tspan>
-  </text>
-  <text style="line-height:1.25" x="81.24" y="273.299" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="81.24" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1.2</tspan>
-  </text>
-  <text style="line-height:1.25" x="81.24" y="278.226" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="81.24" y="278.226" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±2</tspan>
-  </text>
-  <text style="line-height:1.25" x="111.1" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="111.1" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.2</tspan>
-  </text>
-  <text style="line-height:1.25" x="111.1" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="111.1" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.5</tspan>
-  </text>
-  <text style="line-height:1.25" x="111.1" y="273.338" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="111.1" y="273.338" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1</tspan>
-  </text>
-  <text style="line-height:1.25" x="62.626" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="62.626" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">120~400</tspan>
-  </text>
-  <text style="line-height:1.25" x="62.83" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="62.83" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">400~1000</tspan>
-  </text>
-  <text style="line-height:1.25" x="62.626" y="273.299" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="62.626" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1000~2000</tspan>
-  </text>
-  <text style="line-height:1.25" x="62.77" y="278.187" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="62.77" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2000~4000</tspan>
-  </text>
-  <text style="line-height:1.25" x="95.244" y="263.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="95.244" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">0.5~3.0</tspan>
-  </text>
-  <text style="line-height:1.25" x="95.244" y="268.278" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="95.244" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3.0~6.0</tspan>
-  </text>
-  <text style="line-height:1.25" x="95.244" y="273.299" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="95.244" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">6.0~</tspan>
-  </text>
-  <text style="line-height:1.25" x="140.166" y="263.033" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="140.166" y="263.033" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1˚</tspan>
-  </text>
-  <text style="line-height:1.25" x="140.166" y="266.957" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="140.166" y="266.957" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚30&apos;</tspan>
-  </text>
-  <text style="line-height:1.25" x="140.166" y="270.921" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="140.166" y="270.921" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚20&apos;</tspan>
-  </text>
-  <text style="line-height:1.25" x="140.166" y="274.884" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="140.166" y="274.884" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚10&apos;</tspan>
-  </text>
-  <text style="line-height:1.25" x="125.131" y="262.994" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="125.131" y="262.994" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">~10</tspan>
-  </text>
-  <text style="line-height:1.25" x="124.987" y="266.957" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="124.987" y="266.957" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">10~50</tspan>
-  </text>
-  <text style="line-height:1.25" x="125.167" y="270.921" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="125.167" y="270.921" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">50~120</tspan>
-  </text>
-  <text style="line-height:1.25" x="124.987" y="274.884" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="124.987" y="274.884" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">120~400</tspan>
-  </text>
-  <text style="line-height:1.25" x="140.166" y="278.848" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="140.166" y="278.848" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚5&apos;</tspan>
-  </text>
-  <text style="line-height:1.25" x="125.191" y="278.848" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="125.191" y="278.848" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">400~</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.235" y="253.456" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="156.235" y="253.456" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DATE</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.438" y="258.32" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="156.438" y="258.32" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DESIGNER</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.235" y="263.34" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="156.235" y="263.34" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">CHECKER</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.379" y="268.268" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="156.379" y="268.268" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DIVISION</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="263.525" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="205.741" y="263.525" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">MATERIAL</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.945" y="268.467" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="205.945" y="268.467" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">TREATMENT</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="273.474" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="205.741" y="273.474" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DESCRIPTION</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.885" y="278.18" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="205.885" y="278.18" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PART_NUM</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="256.098" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.995" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="205.741" y="256.098" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PART_NAME</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="276.376" y="278.195" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="276.376" y="278.195" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DRAW_NUM</tspan>
-  </text>
-  <text y="2775.834" x="1677.948" style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="700" font-size="25" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width="2.646" transform="matrix(.1 0 0 .09974 0 .766)">
-    <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="2775.834" x="1677.948">Dymaxion.Kim@gmail.com</tspan>
-  </text>
-  <g font-weight="400" font-size="31.75" font-family="Sans Serif" fill-rule="evenodd">
-    <path d="M165.885 277.426h-.21v-3.636h.21a.3.3 0 0 1 .3.298v3.038a.3.3 0 0 1-.3.3" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M609.044 1183.1h-.795v-13.81h.795c.628 0 1.136.51 1.136 1.13v11.54c0 .63-.508 1.14-1.136 1.14" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.619 274.854a.576.576 0 0 0-1.152 0 .576.576 0 0 0 1.152 0" vector-effect="non-scaling-stroke" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M604.252 1173.33c0-1.2-.976-2.18-2.181-2.18-1.204 0-2.18.98-2.18 2.18 0 1.2.976 2.18 2.18 2.18 1.205 0 2.181-.98 2.181-2.18" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.003 274.854a.957.957 0 0 0-.48-.832.965.965 0 0 0-.96 0 .957.957 0 0 0-.48.832.957.957 0 0 0 .48.832.965.965 0 0 0 .96 0 .957.957 0 0 0 .48-.832" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M605.705 1173.33a3.636 3.636 0 0 0-1.813-3.16 3.643 3.643 0 0 0-3.641 0 3.637 3.637 0 0 0-1.814 3.16 3.637 3.637 0 0 0 1.814 3.16c1.126.65 2.515.65 3.641 0a3.636 3.636 0 0 0 1.813-3.16" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.931 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M594.076 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.331 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M591.805 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.731 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M589.533 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.131 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M587.262 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.53 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M596.347 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.131 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M598.619 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.531 276.852v.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M584.991 1180.92v2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.73 277.615v-.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M600.89 1183.82v-2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.331 277.615v-.763" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M603.162 1183.82v-2.9" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.82 273.448h4.223" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M586.081 1167.99h15.99" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.043 276.26c.778 0 1.41-.63 1.41-1.406 0-.777-.632-1.406-1.41-1.406" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M602.071 1178.67a5.339 5.339 0 0 0 5.338-5.34c0-2.95-2.39-5.34-5.338-5.34" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.82 276.26h4.223" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M586.081 1178.67h15.99" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.395 274.854a.578.578 0 0 0-1.152 0 .578.578 0 0 0 1.152 0" vector-effect="non-scaling-stroke" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M588.261 1173.33a2.18 2.18 0 1 0-4.361 0 2.18 2.18 0 1 0 4.361 0" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.78 274.854c0-.53-.43-.956-.96-.956a.957.957 0 1 0 0 1.911c.53 0 .96-.426.96-.955" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M589.715 1173.33c0-2.01-1.627-3.63-3.634-3.63a3.629 3.629 0 0 0-3.634 3.63c0 2.01 1.627 3.63 3.634 3.63a3.629 3.629 0 0 0 3.634-3.63" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.82 273.448c-.78 0-1.41.629-1.41 1.406 0 .776.63 1.406 1.41 1.406" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M586.081 1167.99a5.339 5.339 0 0 0-5.338 5.34c0 2.95 2.39 5.34 5.338 5.34" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M166.185 277.073a1.806 1.806 0 0 0 0-2.93v2.93" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M610.18 1181.76a6.898 6.898 0 0 0 2.839-5.57c0-2.2-1.056-4.27-2.839-5.56v11.13" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M157.977 277.426h.21v-3.636h-.21a.3.3 0 0 0-.3.298v3.038a.3.3 0 0 0 .3.3" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.108 1183.1h.795v-13.81h-.795c-.627 0-1.136.51-1.136 1.13v11.54c0 .63.509 1.14 1.136 1.14" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M157.677 277.073a1.806 1.806 0 0 1 0-2.93v2.93" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M577.972 1181.76a6.898 6.898 0 0 1-2.839-5.57c0-2.2 1.056-4.27 2.839-5.56v11.13" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.631 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M592.94 1164.04h2.272v-3.71h-2.272v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.031 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M590.669 1164.04h2.271v-3.71h-2.271v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.431 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M588.398 1164.04h2.271v-3.71h-2.271v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.231 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M595.212 1164.04h2.271v-3.71h-2.271v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.831 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M597.483 1164.04h2.271v-3.71h-2.271v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.831 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M586.126 1164.04h2.272v-3.71h-2.272v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.43 272.408h.6v-.977h-.6v.977" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M599.754 1164.04h2.272v-3.71h-2.272v3.71" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.375 273.024h-6.888a.3.3 0 0 0-.3.3v4.568c0 .166.135.297.3.297h6.888c.165 0 .3-.131.3-.297v-4.568a.3.3 0 0 0-.3-.3" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M607.114 1166.38h-26.075c-.628 0-1.136.51-1.136 1.14v17.35c0 .63.508 1.13 1.136 1.13h26.075c.627 0 1.135-.5 1.135-1.13v-17.35c0-.63-.508-1.14-1.135-1.14" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.93 277.615v-.763h-5.999v.763h6" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M605.433 1183.82v-2.9h-22.714v2.9h22.714" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.531 273.024l.3-.616h4.2l.3.616h-4.8" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M584.991 1166.38l1.135-2.34h15.9l1.136 2.34h-18.171" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.404 270.539a20.19 20.19 0 0 0-4.946 0 .6.6 0 0 0 0 1.187c1.642.205 3.304.205 4.946 0a.599.599 0 0 0 0-1.187" vector-effect="non-scaling-stroke" fill-rule="nonzero" fill="#fff" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M603.439 1156.94a76.19 76.19 0 0 0-18.726 0 2.273 2.273 0 0 0 0 4.51 75.22 75.22 0 0 0 18.726 0 2.272 2.272 0 1 0 0-4.51" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.187 275.607h-.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.903 1176.19h-1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.187 276.204h-.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.903 1178.46h-1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.187 276.802h-.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.903 1180.73h-1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.187 275.009h-.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.903 1173.92h-1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.187 274.411h-.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M579.903 1171.65h-1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.675 275.607h.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M608.249 1176.19h1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.675 276.204h.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M608.249 1178.46h1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.675 276.802h.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M608.249 1180.73h1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.675 275.009h.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M608.249 1173.92h1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M165.675 274.411h.51" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M608.249 1171.65h1.931" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.131 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M587.262 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.431 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M588.398 1158.51l1.135 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M160.731 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M589.533 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.031 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M590.669 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.331 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M591.805 1159.87l1.135-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.631 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M592.94 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M161.931 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M594.076 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.231 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M595.212 1158.51l1.135 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.53 271.31l.301-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M596.347 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M162.831 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M597.483 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.131 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M598.619 1159.87l1.135-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.43 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M599.754 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.531 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M584.991 1159.87l1.135-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.831 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M586.126 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M158.931 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M582.719 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M159.231 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M583.855 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M163.73 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M600.89 1159.87l1.136-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.03 270.952l.301.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M602.026 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.331 271.31l.3-.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M603.162 1159.87l1.135-1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M164.63 270.952l.3.358" vector-effect="non-scaling-stroke" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
-    <path d="M604.297 1158.51l1.136 1.36" transform="matrix(.26414 0 0 .26327 5.014 -34.05)" fill="none" stroke="#000" stroke-width=".593" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30.304 281.721H404.67" font-weight="400" font-size="31.75" font-family="Sans Serif" stroke-linejoin="bevel" stroke-linecap="square" fill="none" vector-effect="non-scaling-stroke" stroke="#000"/>
+  <g stroke="#000" font-size="31.75" font-weight="400" font-family="Sans Serif" fill="none">
+    <path d="M.5.973v19.9" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M.5.972v19.902" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M.5 276.599v19.9" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M.5 276.6v19.9" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M419.792 296.5h-19.966" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M419.792 296.5h-19.966" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M.5 296.5h19.967" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M.5 296.5h19.967" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20.466.973H.501" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M20.466.972H.501" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M399.826.973h19.966" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M399.826.972h19.966" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M419.792.973v19.9" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M419.792.972v19.902" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M419.792 276.599v19.9" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-linejoin="bevel"/>
+    <path d="M419.792 276.6v19.9" stroke-width=".698" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <text y="2740.37" x="1678.143" style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400" font-size="35" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="2.646" transform="matrix(.1 0 0 .09974 0 .766)">
-    <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="2740.37" x="1678.143" font-weight="900" font-size="40" font-family="Noto Sans CJK KR">Open Design !</tspan>
-  </text>
-  <text style="line-height:1.25" x="381.284" y="289.954" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="381.284" y="289.954" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.497" font-family="Noto Sans CJK KR">Font : Noto Sans CJK KR</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="254.092" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="355.32" y="254.092" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">SIZE</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="260.019" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="355.32" y="260.019" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">VIEW</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="265.989" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="355.32" y="265.989" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">SCALE</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="272.038" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="355.32" y="272.038" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">UNIT</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="277.851" transform="scale(1.0013 .9987)" font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="355.32" y="277.851" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PAGE</tspan>
-  </text>
   <g font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
     <text freecad:editable="201XXXXX" y="253.456" x="176.263" style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400" font-size="3.495" transform="scale(1.0013 .9987)">
       <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="253.456" x="176.263">201XXXXX</tspan>
@@ -601,52 +81,263 @@
       <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="277.799" x="371.788">1/1</tspan>
     </text>
   </g>
-  <text style="line-height:1.25" x="72.929" y="285.546" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="72.929" y="285.546" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1</tspan>
+  <g font-weight="400">
+    <g font-size="31.75" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M30.304 281.721V16.045"/>
+      <path d="M30.903 281.083V15.917M31.502 280.484V16.516M32.1 279.886V17.114M32.7 279.287V17.713M30.304 281.682H404.67M30.903 281.083h373.169M31.502 280.484h371.971M32.1 279.886h370.774M32.7 279.287h369.575M32.7 17.713h369.575M32.1 17.114h370.774M31.502 16.516h371.971M30.903 15.917h373.169M30.304 15.319H404.67" transform="matrix(1 0 0 .99742 0 .766)"/>
+      <path d="M402.275 279.332V18.433M402.874 279.93V17.836M403.473 280.526V17.24M404.072 281.124V16.642M404.671 281.721V16.045"/>
+    </g>
+    <g font-size="31.75" font-family="Sans Serif" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M117.656 286.686v-4.975M117.656 16.034v-4.976M25.312 248.388h4.992M404.685 248.388h4.992M25.312 150.077v-2.388M27.808 151.37v-1.293M27.808 147.689v-1.294M27.808 151.37l2.496-2.487M27.808 146.395l2.496 2.488" stroke-width=".2"/>
+      <path d="M25.313 150.077h2.496M25.313 147.689h2.496" stroke-width=".162"/>
+      <path d="M214.992 284.209h1.297M218.685 284.209h1.298M217.487 281.721l2.496 2.488" stroke-width=".2"/>
+      <path d="M216.289 286.697v-2.487M218.685 286.697v-2.487" stroke-width=".162"/>
+      <path d="M214.992 284.209l2.495-2.488M25.312 49.38h4.992M404.69 49.38h4.992M317.32 286.696v-4.975M317.32 16.037v-4.976" stroke-width=".2"/>
+      <g>
+        <path d="M217.487 16.045l2.496-2.487" stroke-width=".2"/>
+        <path d="M216.289 13.557V11.07M218.685 13.557V11.07" stroke-width=".162"/>
+        <path d="M214.992 13.558l2.495 2.487M214.992 13.558h1.297M218.685 13.558h1.298" stroke-width=".2"/>
+      </g>
+      <g>
+        <path d="M407.167 150.077h2.496M407.167 147.69h2.496" stroke-width=".162"/>
+        <path d="M404.671 148.883l2.496-2.488M404.671 148.883l2.496 2.488M407.167 151.37v-1.293M407.167 147.69v-1.295" stroke-width=".2"/>
+      </g>
+    </g>
+    <g font-size="31.75" font-family="Sans Serif" fill="none" stroke="#000" stroke-width=".2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M10.338 286.696V11.07M10.338 286.696h399.325M10.338 11.07h399.325M409.663 11.07v275.626"/>
+    </g>
+    <g font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
+      <text style="line-height:1.25" x="72.929" y="285.546" transform="scale(1.0013 .9987)">
+        <tspan x="72.929" y="285.546" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1</tspan>
+      </text>
+      <text style="line-height:1.25" x="166.358" y="285.585" transform="scale(1.0013 .9987)">
+        <tspan x="166.358" y="285.585" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2</tspan>
+      </text>
+      <text style="line-height:1.25" x="266.006" y="285.545" transform="scale(1.0013 .9987)">
+        <tspan x="266.006" y="285.545" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3</tspan>
+      </text>
+      <text style="line-height:1.25" x="359.496" y="285.6" transform="scale(1.0013 .9987)">
+        <tspan x="359.496" y="285.6" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">4</tspan>
+      </text>
+      <text style="line-height:1.25" x="26.759" y="266.398" transform="scale(1.0013 .9987)">
+        <tspan x="26.759" y="266.398" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">A</tspan>
+      </text>
+      <text style="line-height:1.25" x="26.823" y="199.885" transform="scale(1.0013 .9987)">
+        <tspan x="26.823" y="199.885" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">B</tspan>
+      </text>
+      <text style="line-height:1.25" x="26.782" y="100.257" transform="scale(1.0013 .9987)">
+        <tspan x="26.782" y="100.257" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">C</tspan>
+      </text>
+      <text style="line-height:1.25" x="26.754" y="33.764" transform="scale(1.0013 .9987)">
+        <tspan x="26.754" y="33.764" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">D</tspan>
+      </text>
+      <text style="line-height:1.25" x="72.873" y="14.618" transform="scale(1.0013 .9987)">
+        <tspan x="72.873" y="14.618" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1</tspan>
+      </text>
+      <text style="line-height:1.25" x="166.301" y="14.658" transform="scale(1.0013 .9987)">
+        <tspan x="166.301" y="14.658" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2</tspan>
+      </text>
+      <text style="line-height:1.25" x="265.949" y="14.618" transform="scale(1.0013 .9987)">
+        <tspan x="265.949" y="14.618" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3</tspan>
+      </text>
+      <text style="line-height:1.25" x="359.44" y="14.673" transform="scale(1.0013 .9987)">
+        <tspan x="359.44" y="14.673" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">4</tspan>
+      </text>
+      <text style="line-height:1.25" x="405.659" y="266.399" transform="scale(1.0013 .9987)">
+        <tspan x="405.659" y="266.399" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">A</tspan>
+      </text>
+      <text style="line-height:1.25" x="405.724" y="199.886" transform="scale(1.0013 .9987)">
+        <tspan x="405.724" y="199.886" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">B</tspan>
+      </text>
+      <text style="line-height:1.25" x="405.682" y="100.258" transform="scale(1.0013 .9987)">
+        <tspan x="405.682" y="100.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">C</tspan>
+      </text>
+      <text style="line-height:1.25" x="405.655" y="33.765" transform="scale(1.0013 .9987)">
+        <tspan x="405.655" y="33.765" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">D</tspan>
+      </text>
+    </g>
+  </g>
+  <g letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="55.518" y="253.392" font-weight="700" font-size="3.495" font-family="Noto Sans CJK KR" transform="scale(1.0013 .9987)">
+      <tspan x="55.518" y="253.392" style="-inkscape-font-specification:'Noto Sans CJK KR';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400">KS B ISO 2768-1 (General Tolerances), Midium</tspan>
+    </text>
+    <text style="line-height:1.25" x="51.398" y="258.132" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="51.398" y="258.132" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Linear tol. [mm]</tspan>
+    </text>
+    <text style="line-height:1.25" x="94.732" y="258.237" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="94.732" y="258.237" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Chamfer tol. [mm]</tspan>
+    </text>
+    <text style="line-height:1.25" x="125.3" y="258.099" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="125.3" y="258.099" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">Angular tol. [mm]</tspan>
+    </text>
+    <text style="line-height:1.25" x="35.526" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="35.526" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">0.5~3.0</tspan>
+    </text>
+    <text style="line-height:1.25" x="35.586" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="35.586" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3.0~6.0</tspan>
+    </text>
+    <text style="line-height:1.25" x="35.505" y="273.299" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="35.505" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">6.0~30</tspan>
+    </text>
+    <text style="line-height:1.25" x="35.586" y="278.187" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="35.586" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">30~120</tspan>
+    </text>
+    <text style="line-height:1.25" x="51.117" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="51.117" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.1</tspan>
+    </text>
+    <text style="line-height:1.25" x="51.117" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="51.117" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.1</tspan>
+    </text>
+    <text style="line-height:1.25" x="51.117" y="273.299" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="51.117" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.2</tspan>
+    </text>
+    <text style="line-height:1.25" x="51.117" y="278.187" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="51.117" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.3</tspan>
+    </text>
+    <text style="line-height:1.25" x="81.24" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="81.24" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.5</tspan>
+    </text>
+    <text style="line-height:1.25" x="81.24" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="81.24" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.8</tspan>
+    </text>
+    <text style="line-height:1.25" x="81.24" y="273.299" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="81.24" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1.2</tspan>
+    </text>
+    <text style="line-height:1.25" x="81.24" y="278.226" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="81.24" y="278.226" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±2</tspan>
+    </text>
+    <text style="line-height:1.25" x="111.1" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="111.1" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.2</tspan>
+    </text>
+    <text style="line-height:1.25" x="111.1" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="111.1" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0.5</tspan>
+    </text>
+    <text style="line-height:1.25" x="111.1" y="273.338" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="111.1" y="273.338" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1</tspan>
+    </text>
+    <text style="line-height:1.25" x="62.626" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="62.626" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">120~400</tspan>
+    </text>
+    <text style="line-height:1.25" x="62.83" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="62.83" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">400~1000</tspan>
+    </text>
+    <text style="line-height:1.25" x="62.626" y="273.299" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="62.626" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1000~2000</tspan>
+    </text>
+    <text style="line-height:1.25" x="62.77" y="278.187" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="62.77" y="278.187" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2000~4000</tspan>
+    </text>
+    <text style="line-height:1.25" x="95.244" y="263.258" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="95.244" y="263.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">0.5~3.0</tspan>
+    </text>
+    <text style="line-height:1.25" x="95.244" y="268.278" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="95.244" y="268.278" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3.0~6.0</tspan>
+    </text>
+    <text style="line-height:1.25" x="95.244" y="273.299" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="95.244" y="273.299" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">6.0~</tspan>
+    </text>
+    <text style="line-height:1.25" x="140.166" y="263.033" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="140.166" y="263.033" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±1˚</tspan>
+    </text>
+    <text style="line-height:1.25" x="140.166" y="266.957" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="140.166" y="266.957" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚30&apos;</tspan>
+    </text>
+    <text style="line-height:1.25" x="140.166" y="270.921" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="140.166" y="270.921" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚20&apos;</tspan>
+    </text>
+    <text style="line-height:1.25" x="140.166" y="274.884" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="140.166" y="274.884" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚10&apos;</tspan>
+    </text>
+    <text style="line-height:1.25" x="125.131" y="262.994" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="125.131" y="262.994" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">~10</tspan>
+    </text>
+    <text style="line-height:1.25" x="124.987" y="266.957" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="124.987" y="266.957" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">10~50</tspan>
+    </text>
+    <text style="line-height:1.25" x="125.167" y="270.921" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="125.167" y="270.921" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">50~120</tspan>
+    </text>
+    <text style="line-height:1.25" x="124.987" y="274.884" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="124.987" y="274.884" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">120~400</tspan>
+    </text>
+    <text style="line-height:1.25" x="140.166" y="278.848" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="140.166" y="278.848" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">±0˚5&apos;</tspan>
+    </text>
+    <text style="line-height:1.25" x="125.191" y="278.848" font-weight="400" font-size="10.57" font-family="sans-serif" transform="scale(1.0013 .9987)">
+      <tspan x="125.191" y="278.848" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">400~</tspan>
+    </text>
+  </g>
+  <g font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.235" y="253.456" transform="scale(1.0013 .9987)">
+      <tspan x="156.235" y="253.456" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DATE</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.438" y="258.32" transform="scale(1.0013 .9987)">
+      <tspan x="156.438" y="258.32" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DESIGNER</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.235" y="263.34" transform="scale(1.0013 .9987)">
+      <tspan x="156.235" y="263.34" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">CHECKER</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="156.379" y="268.268" transform="scale(1.0013 .9987)">
+      <tspan x="156.379" y="268.268" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DIVISION</tspan>
+    </text>
+  </g>
+  <g font-weight="400" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="263.525" font-size="3.495" transform="scale(1.0013 .9987)">
+      <tspan x="205.741" y="263.525" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">MATERIAL</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.945" y="268.467" font-size="3.495" transform="scale(1.0013 .9987)">
+      <tspan x="205.945" y="268.467" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">TREATMENT</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="273.474" font-size="3.495" transform="scale(1.0013 .9987)">
+      <tspan x="205.741" y="273.474" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DESCRIPTION</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.885" y="278.18" font-size="3.495" transform="scale(1.0013 .9987)">
+      <tspan x="205.885" y="278.18" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PART_NUM</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="205.741" y="256.098" font-size="3.995" transform="scale(1.0013 .9987)">
+      <tspan x="205.741" y="256.098" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PART_NAME</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="276.376" y="278.195" font-size="3.495" transform="scale(1.0013 .9987)">
+      <tspan x="276.376" y="278.195" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">DRAW_NUM</tspan>
+    </text>
+  </g>
+  <text stroke-width=".264" word-spacing="0" letter-spacing="0" font-family="sans-serif" font-size="10.57" font-weight="400" transform="scale(1.0013 .9987)" y="289.954" x="381.284" style="line-height:1.25">
+    <tspan font-family="Noto Sans CJK KR" font-size="2.497" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="289.954" x="381.284">Font : Noto Sans CJK KR</tspan>
   </text>
-  <text style="line-height:1.25" x="166.358" y="285.585" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="166.358" y="285.585" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2</tspan>
+  <g font-weight="400" font-size="3.495" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width=".264">
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="254.092" transform="scale(1.0013 .9987)">
+      <tspan x="355.32" y="254.092" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">SIZE</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="260.019" transform="scale(1.0013 .9987)">
+      <tspan x="355.32" y="260.019" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">VIEW</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="265.989" transform="scale(1.0013 .9987)">
+      <tspan x="355.32" y="265.989" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">SCALE</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="272.038" transform="scale(1.0013 .9987)">
+      <tspan x="355.32" y="272.038" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">UNIT</tspan>
+    </text>
+    <text style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="355.32" y="277.851" transform="scale(1.0013 .9987)">
+      <tspan x="355.32" y="277.851" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">PAGE</tspan>
+    </text>
+  </g>
+  <text y="2775.834" x="1677.948" style="line-height:1.25;-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="700" font-size="25" font-family="Noto Sans CJK KR" letter-spacing="0" word-spacing="0" stroke-width="2.646" transform="matrix(.1 0 0 .09974 0 .766)">
+    <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="2775.834" x="1677.948">Dymaxion.Kim@gmail.com</tspan>
   </text>
-  <text style="line-height:1.25" x="266.006" y="285.545" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="266.006" y="285.545" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3</tspan>
+  <text y="2740.37" x="1678.143" style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400" font-size="35" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="2.646" transform="matrix(.1 0 0 .09974 0 .766)">
+    <tspan style="-inkscape-font-specification:'Noto Sans CJK KR, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" y="2740.37" x="1678.143" font-weight="900" font-size="40" font-family="Noto Sans CJK KR">Open Design !</tspan>
   </text>
-  <text style="line-height:1.25" x="359.496" y="285.6" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="359.496" y="285.6" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">4</tspan>
-  </text>
-  <text style="line-height:1.25" x="26.759" y="266.398" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="26.759" y="266.398" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">A</tspan>
-  </text>
-  <text style="line-height:1.25" x="26.823" y="199.885" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="26.823" y="199.885" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">B</tspan>
-  </text>
-  <text style="line-height:1.25" x="26.782" y="100.257" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="26.782" y="100.257" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">C</tspan>
-  </text>
-  <text style="line-height:1.25" x="26.754" y="33.764" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="26.754" y="33.764" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">D</tspan>
-  </text>
-  <text style="line-height:1.25" x="72.873" y="14.618" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="72.873" y="14.618" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">1</tspan>
-  </text>
-  <text style="line-height:1.25" x="166.301" y="14.658" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="166.301" y="14.658" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">2</tspan>
-  </text>
-  <text style="line-height:1.25" x="265.949" y="14.618" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="265.949" y="14.618" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">3</tspan>
-  </text>
-  <text style="line-height:1.25" x="359.44" y="14.673" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="359.44" y="14.673" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">4</tspan>
-  </text>
-  <text style="line-height:1.25" x="405.659" y="266.399" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="405.659" y="266.399" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">A</tspan>
-  </text>
-  <text style="line-height:1.25" x="405.724" y="199.886" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="405.724" y="199.886" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">B</tspan>
-  </text>
-  <text style="line-height:1.25" x="405.682" y="100.258" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="405.682" y="100.258" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">C</tspan>
-  </text>
-  <text style="line-height:1.25" x="405.655" y="33.765" transform="scale(1.0013 .9987)" font-weight="400" font-size="10.57" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".264">
-    <tspan x="405.655" y="33.765" style="-inkscape-font-specification:'Noto Sans CJK KR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="2.996" font-family="Noto Sans CJK KR">D</tspan>
-  </text>
+  <g stroke="#000" font-weight="400" font-family="Sans Serif" stroke-width=".15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M161.57 272.552h.6v-.977h-.6v.977M165.823 277.57h-.21v-3.636h.21a.3.3 0 0 1 .3.298v3.038a.3.3 0 0 1-.3.3" fill="none"/>
+    <path d="M164.557 274.998a.576.576 0 0 0-1.152 0 .576.576 0 0 0 1.152 0" fill-rule="evenodd"/>
+    <path d="M164.941 274.998a.96.957 0 0 0-.479-.832.962.96 0 0 0-.961 0 .96.958 0 0 0-.48.832.96.958 0 0 0 .48.832.965.965 0 0 0 .961 0 .96.957 0 0 0 .48-.832M161.87 276.996v.764M161.27 276.996v.764M160.67 276.996v.764M160.07 276.996v.764M162.47 276.996v.764M163.07 276.996v.764M159.47 276.996v.764M163.67 277.76v-.764M164.27 277.76v-.764M159.758 273.592h4.223" fill="none"/>
+    <path d="M163.981 276.404a1.41 1.406 0 0 0 1.41-1.406c0-.777-.631-1.406-1.41-1.406" fill="none"/>
+    <path d="M160.334 274.998a.576.574 0 1 0-1.152 0 .576.574 0 1 0 1.152 0" fill-rule="evenodd"/>
+    <path d="M160.718 274.998c0-.53-.43-.956-.96-.956a.959.955 0 0 0-.96.956c0 .53.43.956.96.956a.959.955 0 0 0 .96-.956" fill="none"/>
+    <path d="M159.758 273.592a1.41 1.406 0 0 0-1.41 1.406c0 .777.631 1.406 1.41 1.406M166.123 277.217a1.822 1.816 0 0 0 .75-1.466c0-.58-.279-1.124-.75-1.464v2.93M157.916 277.57h.21v-3.636h-.21a.3.3 0 0 0-.3.298v3.038a.3.3 0 0 0 .3.3" fill="none"/>
+    <path d="M157.616 277.217a1.822 1.816 0 0 1-.75-1.466c0-.58.279-1.124.75-1.464v2.93M160.97 272.552h.6v-.977h-.6v.977M160.37 272.552h.6v-.977h-.6v.977M162.17 272.552h.6v-.977h-.6v.977M162.77 272.552h.6v-.977h-.6v.977M159.77 272.552h.6v-.977h-.6v.977M163.37 272.552h.6v-.977h-.6v.977M165.313 273.168h-6.887a.3.3 0 0 0-.3.3v4.568c0 .166.134.298.3.298h6.887c.166 0 .3-.132.3-.298v-4.568a.3.3 0 0 0-.3-.3" fill="none"/>
+    <path d="M164.87 277.76v-.764h-6v.764h6M159.47 273.168l.3-.616h4.2l.3.616h-4.8" fill="none"/>
+    <path d="M164.25 270.683a20 20.059 0 0 0-4.916 0 .597.598 0 0 0 0 1.187 19.745 19.803 0 0 0 4.916 0 .596.598 0 1 0 0-1.187" fill="#fff" fill-rule="evenodd"/>
+    <path d="M158.126 275.75h-.51M158.126 276.349h-.51M158.126 276.946h-.51M158.126 275.153h-.51M158.126 274.556h-.51M165.613 275.75h.51M165.613 276.349h.51M165.613 276.946h.51M165.613 275.153h.51M165.613 274.556h.51M160.07 271.454l.3-.358M160.37 271.096l.3.358M160.67 271.454l.3-.358M160.97 271.096l.3.358M161.27 271.454l.3-.358M161.87 271.454l.3-.358M162.17 271.096l.3.358M162.47 271.454l.3-.358M162.77 271.096l.3.358M163.07 271.454l.3-.358M163.37 271.096l.3.358M159.47 271.454l.3-.358M159.77 271.096l.3.358M158.87 271.454l.3-.358M159.17 271.096l.3.358M163.67 271.454l.3-.358M163.97 271.096l.3.358M164.27 271.454l.3-.358M164.57 271.096l.3.358M161.57 271.096l.3.358M159.758 276.404h4.223" fill="none"/>
+  </g>
 </svg>
