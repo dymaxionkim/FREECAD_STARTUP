@@ -11,4 +11,4 @@
 ## Web Hosting
 * https://dymaxionkim.github.io/FREECAD_STARTUP/Examples/index.html
 * https://dymaxionkim.github.io/FREECAD_STARTUP/Examples/Bottle.html
-
+* FreeCAD에서 html(webgl) 포멧으로 export한 파일에서, three.js의 cdn url 주소의 프로토콜을 https로 변경해 주면, github에서 호스팅 가능해진다.
